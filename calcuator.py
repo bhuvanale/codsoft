@@ -1,6 +1,6 @@
 from tkinter import *
 root = Tk()
-root.title("RK_CALCULATOR")
+root.title("BHUVANESWARI_CALCULATOR")
 
 root.resizable(False , False)
 
